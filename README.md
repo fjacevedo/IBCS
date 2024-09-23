@@ -1,4 +1,4 @@
-# IB Computer Science Class PS.3000 Coding Repository
+# IB Computer Science Class Coding Repository
 
 Welcome to the IB Computer Science Class PS.3000 Coding Repository! This repository contains all the Java code examples we work on during our Computer Science classes. It is designed to be a resource for students to review and reference as you learn programming concepts and techniques in Java, aligned with the International Baccalaureate curriculum.
 
